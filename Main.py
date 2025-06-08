@@ -70,7 +70,7 @@
 # maxi = (data[data["temp"] == data["temp"].max()])
 # print(maxi)
 
-# ptinting the temperatures of the sunny day
+# printing the temperatures of the sunny day
 # Sunny = data[data["condition"] == "Sunny"]
 # print(Sunny.temp) 
 
